@@ -3,7 +3,7 @@
 [![Preeyathorn GitHub stats](https://github-readme-stats.vercel.app/api?username=preeyathorn-c&show_icons=true&theme=tokyonight)](https://github.com/preeyathorn-c)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preeyathorn-c&layout=compact)](https://github.com/preeyathorn-c)
 <!--
-**neko7687/neko7687** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**preeyathorn-c/preeyathorn-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
