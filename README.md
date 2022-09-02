@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Preeyathorn GitHub stats](https://github-readme-stats.vercel.app/api?username=neko7687&show_icons=true&theme=tokyonight)](https://github.com/neko7687)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neko7687&layout=compact)](https://github.com/neko7687)
+[![Preeyathorn GitHub stats](https://github-readme-stats.vercel.app/api?username=preeyathorn-c&show_icons=true&theme=tokyonight)](https://github.com/preeyathorn-c)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preeyathorn-c&layout=compact)](https://github.com/preeyathorn-c)
 <!--
 **neko7687/neko7687** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
